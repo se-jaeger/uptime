@@ -11,12 +11,6 @@ sites:
     url: https://mail.sebastian-jaeger.me
   - name: mail.jaegr.de
     url: https://mail.jaegr.de
-  - name: calgo-lab.de
-    url: https://calgo-lab.de
-  - name: green-db.calgo-lab.de
-    url: http://green-db.calgo-lab.de
-  - name: product-classification.demo.calgo-lab.de
-    url: https://product-classification.demo.calgo-lab.de
 
 status-website:
   introTitle: "Sebastian Jäger's Status & Uptime Monitoring"
