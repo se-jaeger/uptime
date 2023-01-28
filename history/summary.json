@@ -4,19 +4,19 @@
     "url": "https://sebastian-jaeger.me",
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-jaeger.me.ico",
     "slug": "sebastian-jaeger-me",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 194,
-    "timeDay": 136,
-    "timeWeek": 159,
-    "timeMonth": 176,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 192,
+    "timeDay": 124,
+    "timeWeek": 153,
+    "timeMonth": 173,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-01-28": 10
+      "2023-01-28": 19
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.sebastian-jaeger.me.ico",
     "slug": "mail-sebastian-jaeger-me",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 999,
     "timeDay": 2885,
     "timeWeek": 1822,
     "timeMonth": 1195,
     "timeYear": 999,
-    "dailyMinutesDown": {
-      "2023-01-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.jaegr.de",
@@ -45,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.jaegr.de.ico",
     "slug": "mail-jaegr-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 726,
     "timeWeek": 855,
     "timeMonth": 820,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2023-01-28": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
