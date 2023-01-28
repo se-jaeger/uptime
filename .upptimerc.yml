@@ -34,7 +34,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "0 0 * * *"
+  uptime: "*/5 * * * *"
 
 commitMessages:
   commitAuthorName: "Sebastian Jäger (Bot)"
