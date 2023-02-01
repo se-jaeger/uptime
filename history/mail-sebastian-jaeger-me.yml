@@ -1,7 +1,7 @@
 url: https://mail.sebastian-jaeger.me
-status: up
-code: 200
-responseTime: 888
-lastUpdated: 2023-01-31T23:15:37.580Z
+status: down
+code: 502
+responseTime: 469
+lastUpdated: 2023-02-01T07:53:15.364Z
 startTime: Sun Dec 04 2022 16:31:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
