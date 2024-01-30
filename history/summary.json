@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 332,
-    "timeWeek": 248,
-    "timeMonth": 302,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2023-01-30": 28
-    }
+    "timeDay": 253,
+    "timeWeek": 238,
+    "timeMonth": 303,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.sebastian-jaeger.me",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1065,
-    "timeDay": 745,
-    "timeWeek": 696,
-    "timeMonth": 731,
+    "time": 1064,
+    "timeDay": 816,
+    "timeWeek": 711,
+    "timeMonth": 736,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-11-19": 38,
@@ -43,8 +41,7 @@
       "2023-07-27": 43,
       "2023-05-24": 24,
       "2023-02-01": 19,
-      "2023-01-31": 25,
-      "2023-01-30": 28
+      "2023-01-31": 25
     }
   },
   {
@@ -58,10 +55,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 974,
-    "timeDay": 718,
-    "timeWeek": 706,
-    "timeMonth": 756,
+    "time": 973,
+    "timeDay": 656,
+    "timeWeek": 714,
+    "timeMonth": 758,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2023-11-19": 38,
@@ -69,8 +66,7 @@
       "2023-07-27": 42,
       "2023-05-24": 24,
       "2023-02-01": 19,
-      "2023-01-31": 24,
-      "2023-01-30": 27
+      "2023-01-31": 24
     }
   }
 ]
