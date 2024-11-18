@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 430,
-    "timeWeek": 390,
-    "timeMonth": 325,
+    "timeDay": 181,
+    "timeWeek": 368,
+    "timeMonth": 322,
     "timeYear": 288,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 931,
-    "timeDay": 747,
-    "timeWeek": 828,
-    "timeMonth": 823,
-    "timeYear": 867,
+    "timeDay": 920,
+    "timeWeek": 817,
+    "timeMonth": 829,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2024-08-23": 586,
       "2024-08-22": 641,
@@ -44,8 +44,7 @@
       "2024-04-24": 926,
       "2024-04-22": 580,
       "2024-04-21": 1440,
-      "2024-04-20": 403,
-      "2023-11-19": 38
+      "2024-04-20": 403
     }
   },
   {
@@ -54,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.jaegr.de.ico",
     "slug": "mail-jaegr-de",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
-    "time": 887,
-    "timeDay": 760,
-    "timeWeek": 755,
-    "timeMonth": 770,
-    "timeYear": 822,
+    "time": 886,
+    "timeDay": 636,
+    "timeWeek": 758,
+    "timeMonth": 771,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2024-08-23": 586,
       "2024-08-22": 641,
@@ -75,8 +74,7 @@
       "2024-04-24": 924,
       "2024-04-22": 580,
       "2024-04-21": 1440,
-      "2024-04-20": 403,
-      "2023-11-19": 38
+      "2024-04-20": 403
     }
   }
 ]
