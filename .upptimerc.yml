@@ -37,5 +37,5 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 commitMessages:
-  commitAuthorName: "Sebastian Jäger (Bot)"
-  commitAuthorEmail: "github@sebastian-jaeger.me"
+  commitAuthorName: "uptime[bot]"
+  commitAuthorEmail: "uptime[bot]@sebastian-jaeger.me"
