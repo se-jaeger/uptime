@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 162,
-    "timeWeek": 284,
-    "timeMonth": 277,
+    "timeDay": 316,
+    "timeWeek": 285,
+    "timeMonth": 281,
     "timeYear": 353,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.sebastian-jaeger.me.ico",
     "slug": "mail-sebastian-jaeger-me",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
-    "time": 938,
-    "timeDay": 574,
-    "timeWeek": 712,
-    "timeMonth": 734,
-    "timeYear": 997,
+    "uptimeYear": "99.18%",
+    "time": 939,
+    "timeDay": 827,
+    "timeWeek": 733,
+    "timeMonth": 741,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2024-08-23": 586,
       "2024-08-22": 641,
@@ -41,8 +41,7 @@
       "2024-07-29": 25,
       "2024-06-12": 381,
       "2024-06-11": 651,
-      "2024-04-24": 926,
-      "2024-04-22": 580
+      "2024-04-24": 926
     }
   },
   {
@@ -55,11 +54,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "99.18%",
     "time": 887,
-    "timeDay": 883,
-    "timeWeek": 818,
-    "timeMonth": 770,
+    "timeDay": 806,
+    "timeWeek": 814,
+    "timeMonth": 772,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2024-08-23": 586,
@@ -69,8 +68,7 @@
       "2024-07-29": 25,
       "2024-06-12": 381,
       "2024-06-11": 650,
-      "2024-04-24": 924,
-      "2024-04-22": 580
+      "2024-04-24": 924
     }
   }
 ]
