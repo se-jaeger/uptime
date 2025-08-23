@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 316,
-    "timeWeek": 289,
+    "time": 344,
+    "timeDay": 239,
+    "timeWeek": 308,
     "timeMonth": 314,
-    "timeYear": 364,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -27,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.91%",
     "time": 957,
-    "timeDay": 857,
-    "timeWeek": 857,
-    "timeMonth": 812,
-    "timeYear": 981,
-    "dailyMinutesDown": {
-      "2024-08-23": 586
-    }
+    "timeDay": 615,
+    "timeWeek": 835,
+    "timeMonth": 809,
+    "timeYear": 980,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.jaegr.de",
@@ -47,14 +45,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.91%",
     "time": 909,
-    "timeDay": 907,
-    "timeWeek": 790,
-    "timeMonth": 822,
+    "timeDay": 685,
+    "timeWeek": 775,
+    "timeMonth": 821,
     "timeYear": 931,
-    "dailyMinutesDown": {
-      "2024-08-23": 586
-    }
+    "dailyMinutesDown": {}
   }
 ]
