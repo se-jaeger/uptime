@@ -22,35 +22,39 @@
     "url": "https://mail.sebastian-jaeger.me",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sebastian-jaeger.me.ico",
     "slug": "mail-sebastian-jaeger-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
+    "time": 968,
     "timeDay": 7122,
     "timeWeek": 1727,
     "timeMonth": 997,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   },
   {
     "name": "mail.jaegr.de",
     "url": "https://mail.jaegr.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.jaegr.de.ico",
     "slug": "mail-jaegr-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 12041,
-    "timeWeek": 2439,
-    "timeMonth": 1178,
-    "timeYear": 935,
-    "dailyMinutesDown": {}
+    "time": 929,
+    "timeDay": 6796,
+    "timeWeek": 2328,
+    "timeMonth": 1190,
+    "timeYear": 937,
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   }
 ]
