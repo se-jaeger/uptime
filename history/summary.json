@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 319,
-    "timeWeek": 981,
-    "timeMonth": 619,
+    "time": 365,
+    "timeDay": 147,
+    "timeWeek": 305,
+    "timeMonth": 610,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "mail-sebastian-jaeger-me",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 12484,
-    "timeWeek": 3742,
-    "timeMonth": 1540,
+    "time": 1004,
+    "timeDay": 9413,
+    "timeWeek": 3776,
+    "timeMonth": 1548,
     "timeYear": 973,
-    "dailyMinutesDown": {
-      "2025-10-10": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.jaegr.de",
@@ -44,17 +42,15 @@
     "slug": "mail-jaegr-de",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 5438,
-    "timeWeek": 2372,
-    "timeMonth": 1238,
-    "timeYear": 942,
-    "dailyMinutesDown": {
-      "2025-10-10": 13
-    }
+    "time": 935,
+    "timeDay": 1946,
+    "timeWeek": 2479,
+    "timeMonth": 1259,
+    "timeYear": 944,
+    "dailyMinutesDown": {}
   }
 ]
