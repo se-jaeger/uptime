@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 234,
-    "timeWeek": 293,
-    "timeMonth": 338,
-    "timeYear": 371,
+    "timeDay": 574,
+    "timeWeek": 339,
+    "timeMonth": 354,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 1042,
-    "timeDay": 947,
-    "timeWeek": 833,
-    "timeMonth": 917,
+    "time": 1041,
+    "timeDay": 1093,
+    "timeWeek": 884,
+    "timeMonth": 932,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-12-22": 72
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.jaegr.de.ico",
     "slug": "mail-jaegr-de",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 983,
-    "timeDay": 875,
-    "timeWeek": 857,
-    "timeMonth": 880,
-    "timeYear": 980,
+    "time": 982,
+    "timeDay": 797,
+    "timeWeek": 868,
+    "timeMonth": 884,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2025-12-22": 111
     }
